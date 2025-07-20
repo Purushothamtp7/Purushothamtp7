@@ -52,6 +52,7 @@ Here are a few projects I've worked on recently:
 - [🔔 Smart Medicine Reminder with SMS Alerts]()
 - [📓 Personal Diary App](https://github.com/Purushothamtp7/Mydiary)
 - [💸 Django Expense Tracker](https://github.com/Purushothamtp7/expense_tracker)
+- [🎬 Movie Watchlist App](https://github.com/Purushothamtp7/Movies_watchlist)
 
 ---
 
