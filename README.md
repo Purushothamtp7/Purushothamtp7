@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Smart Medicine Reminder with SMS Alerts**
 - 🌱 I’m currently learning **HTML,CSS,JS,Python**
-- 📫 How to reach me: **purushothamtp1@gmail.com**
+- 📫 How to reach me: **purushotthampuru907@gmail.com**
 
 ---
 
